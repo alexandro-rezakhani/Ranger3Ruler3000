@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest>
+    <application name="Ranger3Ruler3000">
+        <crown name="Ranger3">
+            <desc>user script</desc>
+        </crown>
+        <meta key="author">AppSpace Sample</meta>
+        <meta key="version">1.0</meta>
+        <meta key="priority">low</meta>
+        <meta key="copy-protected">false</meta>
+        <meta key="read-protected">false</meta>
+        <entry default="gigevision_crown_frame_acquisition.lua" path="scripts"/>
+    </application>
+</manifest>
